@@ -1,4 +1,5 @@
 ## Futzing with SAA2015 Tweets
 
-+ collected with TWARC on April 21
-+ grab your own set of data using TWARC's hydrate command, on the list of tweet IDs.
++ collected with [TWARC](https://github.com/edsu/twarc) on April 21
++ grab your own set of data using TWARC's hydrate command, on the [list of tweet IDs](https://gist.github.com/shawngraham/3c94b1e0b596884d5aae#file-saa2015tweetids).
++ there may or may not be a list of extracted URLs [here](http://inkdroid.org/saa2015/)
